@@ -1,0 +1,2 @@
+# _/C_/Users/m.ghobbeh/Desktop/call_api_with_goalang
+.\main.go:33:2: imported and not used: "git.zeuz.io/sdk/golang/zeuzsdk"
